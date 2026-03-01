@@ -1,1 +1,1 @@
-This project is a game for spy
+This project is a game for space invaders
